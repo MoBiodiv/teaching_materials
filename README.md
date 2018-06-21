@@ -1,11 +1,12 @@
-# teaching_materials
+# MoB Teaching Materials
 This repository contains teaching materials related to the Measurement of Biodiversity (MoB) approach. This materials may be reused by others with attribution to the 
 orginal authors. 
 
-##yDiv course materials
-In 2018 a group of us (Jon Chase, Dan McGlinn, Shane Blowes, Thor Engel) taught
-a one day yDiv course in Leipzig. The digital materials associated with that
-course as archieved here. 
+### yDiv course materials
+Jon Chase, Dan McGlinn, Shane Blowes, and Thor Engel taught
+a one day yDiv course in Leipzig in 2018. The digital materials associated with that
+course as archieved here. Materials shared below were also contributed to by 
+Brian McGill, Felix May, and Katharina Gerstner. 
 
 * Part 1 - Intro given and developed by Jon Chase
     * [MoB_workshop_intro_Chase.pdf](./MoB_workshop_intro_Chase.pdf)
